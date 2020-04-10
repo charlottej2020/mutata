@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title></title>
+	<title>mut is a good mat</title>
 </head>
 <body>
 <h1>Hi Mutata</h1>
